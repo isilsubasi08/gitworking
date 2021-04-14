@@ -1,2 +1,4 @@
 Ben burada line isini hallediyorum
 Line gelistirmeye devam ediyorum
+
+Ben de Line degistirdim
